@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_initial_width">24dp</dimen>
+    <dimen name="recipe_list_recyclerview_padding">4dp</dimen>
+    <dimen name="recipe_data_cardview_margin">4dp</dimen>
+    <dimen name="recipe_data_textview_margin">4dp</dimen>
+
+</resources>

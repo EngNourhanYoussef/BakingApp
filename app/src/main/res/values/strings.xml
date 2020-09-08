@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Baking</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="steps">%s/%s</string>
+
+
+    <string name="pref_key_widget_recipe_title" translatable="false">widget_recipe_title</string>
+    <string name="pref_key_widget_recipe_ingredients" translatable="false">widget_recipe_ingredients</string>
+    <string name="pref_key_widget_recipe_id" translatable="false">widget_recipe_id</string>
+    <string name="pref_value_widget_not_set_title">Widget not set up</string>
+    <string name="pref_value_widget_not_set_description">Launch the app, and select a recipe to display in this widget</string>
+
+    <!-- RecipeDataFragment -->
+    <string name="action_add_to_widget">Add recipe to widget</string>
+    <string name="toast_widget_added">Widget data updated! Don\'t forget to add a widget to your homescreen</string>
+    <string name="ingredients">Ingredients</string>
+
+    <string name="widget_config_message">Select recipe to display in widget</string>
+</resources>
